@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  HEROES
+
+  Created by Igor Guk on 08.09.15.
+  Copyright © 2015 Igor Guk. All rights reserved.
+*/
+
+/* Error */
+
+//description
+"Input Validation Failed" = "Input Validation Failed";
+//reason
+"Number of characters is less than three" = "Number of characters is less than three";
